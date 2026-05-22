@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "xlsm-user-data-collect-2026",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f6abd563-9dfd-45ee-b0d1-2df434be4263",
+			"database_name": "xlsm_user_data_collect"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
